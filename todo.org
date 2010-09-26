@@ -1,0 +1,4 @@
+* status bar
+  time, flags
+* save config
+* save scores
